@@ -15,7 +15,7 @@ export PYTHONUNBUFFERED=1
 export PYTHONPATH=/export/home/acs/prof/andrei.mihalea/workspace/verl
 #export CUDA_VISIBLE_DEVICES=0
 unset ROCR_VISIBLE_DEVICES
-export WANDB_API_KEY=4c1ff49f6782212ff1879cd0a698dd644d7d2e42
+export WANDB_API_KEY=<insert-w&b-api-key>
 
 # ========================
 # Paths
